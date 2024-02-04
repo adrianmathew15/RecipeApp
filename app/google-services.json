@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970758389620",
+    "project_id": "recipes-36e62",
+    "storage_bucket": "recipes-36e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970758389620:android:b64eef0f5cd91bc71c7621",
+        "android_client_info": {
+          "package_name": "com.example.recipes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMaQG8Z3zVxi2JyUhBTNxcCBq5EH5nLjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
